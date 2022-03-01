@@ -22,9 +22,16 @@
   
   ![image-20220301144508414](md-images/image-20220301144508414.png)
   
+* 🗂️ **코드 참조 리포지토리**
+
+  * [Android](https://github.com/Eyes-On/Android)
+  * [AI](https://github.com/Eyes-On/AI)
+  * [RaspberryPi](https://github.com/Eyes-On/RaspberryPi)
+  * [CloudServer](https://github.com/Eyes-On/CloudServer)
+  
 * **프로젝트 완성 시연영상**
 
-  <iframe width="800" height="600" src="https://www.youtube.com/embed/lenywLJ4ces" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  [![label](http://img.youtube.com/vi/lenywLJ4ces/0.jpg)](https://youtu.be/lenywLJ4ces)
 
 <br>
 
@@ -66,9 +73,7 @@
 
 ![image-20220301144746333](md-images/image-20220301144746333.png)
 
-
-
-<iframe width="800" height="600" src="https://www.youtube.com/embed/jBrhnGL4WE0?start=52" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![label](http://img.youtube.com/vi/jBrhnGL4WE0/0.jpg)](https://youtu.be/jBrhnGL4WE0?t=52s)
 
 ![image-20220301145436851](md-images/image-20220301145436851.png)
 
